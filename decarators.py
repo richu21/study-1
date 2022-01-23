@@ -13,5 +13,6 @@ def msg(lst) :
 
 
 lst= list()
+print("hiii")
 t = msg(lst)
 print(lst)
